@@ -61,15 +61,15 @@ ABOUT_TEXT = """--**About Me**-- 😎
 
 🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [charmy](https://t.me/charmyanime)
 
-👨‍💻 **Editor :** [Muhammed](https://github.com/Mrk_yt)
+👨‍💻 **Editor :** [no name](https://t.me/youtuberyt54355)
 
-📢 **Channel :** [Mo Tech Channel](https://telegram.me/Mo_Tech_YT)
+📢 **Channel :** [rest bots](https://telegram.me/shiro_bot_support)
 
-👥 **Group :** [Mo Tech Group](https://telegram.me/Mo_Tech_Group)
+👥 **co helper :** [shiro](https://telegram.me/shirou_emiya0)
 
-🌐 **anime_group :** [👉 Click here](https://t.me/anime-period)
+🌐 **anime_group :** [👉 Click here](https://t.me/anime_period)
 
 📝 **Language :** [Python3](https://python.org)
 
