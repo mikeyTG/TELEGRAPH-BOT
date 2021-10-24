@@ -40,7 +40,7 @@ I am small media or file to telegra.ph link uploader bot.**
 
 >> `I can convert under 5MB photo or video to telegraph link.`
 
-Made by @Mo_Tech_YT"""
+Made by @shiro_bot_support"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -55,7 +55,7 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /about - For more about me
 /status - For bot updates
 
-Made by @Mo_Tech_YT"""
+Made by @shiro_bot_support"""
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
@@ -69,7 +69,7 @@ ABOUT_TEXT = """--**About Me**-- 😎
 
 👥 **Group :** [Mo Tech Group](https://telegram.me/Mo_Tech_Group)
 
-🌐 **Source :** [👉 Click here](https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2)
+🌐 **anime_group :** [👉 Click here](https://t.me/anime-period)
 
 📝 **Language :** [Python3](https://python.org)
 
@@ -81,7 +81,7 @@ FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for us
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🖥️ my dev 🖥️', url='https://t.me/charmyanime'),
         ],[
         InlineKeyboardButton('⚙ Help', callback_data='help'),
         InlineKeyboardButton('About 🔰', callback_data='about'),
@@ -91,7 +91,7 @@ START_BUTTONS = InlineKeyboardMarkup(
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🖥️ owner 🖥️', url='https://t.me/shiro_bot_support'),
         ],[
         InlineKeyboardButton('🏘 Home', callback_data='home'),
         InlineKeyboardButton('About 🔰', callback_data='about'),
@@ -101,7 +101,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🖥️ co worker 🖥️', url='https://t.me/shirou_emiya0'),
         ],[
         InlineKeyboardButton('🏘 Home', callback_data='home'),
         InlineKeyboardButton('Help ⚙', callback_data='help'),
@@ -243,10 +243,10 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
                 [  
-                    InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/FayasNoushad")
+                    InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/shiro_bot_support")
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50')
+                    InlineKeyboardButton('🖥️ dev 🖥️', url='https://t.me/charmyanime')
                 ]
             ]
         )
